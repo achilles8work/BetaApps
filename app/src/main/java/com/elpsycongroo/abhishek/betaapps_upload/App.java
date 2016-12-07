@@ -25,18 +25,21 @@ public class App extends Fragment {
 
     private RecyclerView.Adapter adapter;
 
-    public App() {
+    public App(){
 
     }
+
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
 
         super.onCreate(savedInstanceState);
 
-       // initControls();
+        //initControls();
 
     }
+
+
 
     private void initControls() {
     }
